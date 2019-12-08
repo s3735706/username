@@ -1,0 +1,102 @@
+body {
+
+	background-color:gainsboro;
+
+}
+
+
+
+h2{
+	color: black;
+}
+
+h3{
+	color: black;
+}
+
+p{
+	font-family: arial;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+		
+	
+
+.center {
+	 display: block;
+	 margin-left: auto;
+	 margin-right: auto;
+	 width: 90%;
+	
+}
+
+img {
+	width: 10%;
+	height:10%;
+}
+
+	
+.middle	{
+	 width: 20%;
+	 margin-right: auto;
+	 margin-left: auto;
+	 border-style: solid;
+	 border-left: 30%;
+	 border-right:30%;
+	 border-bottom: 30%;
+	 border-top:30%;
+	 border-color: black;
+}
+
+
+img{
+	width: 40%;
+	height:20%;
+}
+.medium2{
+
+		border-style: solid;
+		border-left: 50%;
+		border-right: 50%;
+		border-bottom: 50%;
+		border-top: 50%
+		border-color: black;
+}
+.learning1{
+
+		width: 40%
+		height: 20%;
+
+		border-style: solid;
+		border-left: 50%;
+		border-right: 50%;
+		border-top: 50%
+		border-bottom:50%;
+		border-color: black;
+}
+.Learning2{
+
+		width: 40%;
+		height:20%;
+
+		border-style: solid;
+		border-left: 60%;
+		border-right: 60%;
+		border-top:60%;
+		border-bottom: 60%;
+		border-color: black;
+}
+.Creativity{
+			width: 40%;
+			height: 20%;
+
+			border-style: solid;
+			border-left: 60%;
+			border-right: 60%;
+			border-top: 60%;
+			border-bottom: 60%;
+}
